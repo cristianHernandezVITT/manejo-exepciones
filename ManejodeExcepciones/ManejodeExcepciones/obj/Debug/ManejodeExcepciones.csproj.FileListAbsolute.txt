@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\bin\Debug\ManejodeExcepciones.exe.config
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\bin\Debug\ManejodeExcepciones.exe
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\bin\Debug\ManejodeExcepciones.pdb
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.exe
+C:\Users\hp\source\repos\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.pdb
